@@ -1,0 +1,12 @@
+This is a Perl port of code acompanying:
+
+http://blacksheep.parry.org/archives/diy-di/print/
+
+In each directory there is added a test.pl script that runs
+some simple tests to ensure that the refactoring was correct.
+
+There are also some mock implementations of the base classes
+needed for the tests to run - they are in the 'external' directory.
+
+AUTHOR
+Zbigniew Lukasiak

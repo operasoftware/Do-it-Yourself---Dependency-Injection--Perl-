@@ -1,0 +1,3 @@
+BookingService booking = new BookingService();
+
+but BookingService constructor has two parameters.
